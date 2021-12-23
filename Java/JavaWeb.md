@@ -4397,7 +4397,7 @@ alt+insert  -->  Plugin  template -->选择本地仓库里面你需要的插件�
 
 **答：**在IDEA中配置Maven环境，修改Maven查找资源的路径
 
-![image-20210813095647848](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210813095647848.png)
+![image-20210813095647848](https://github.com/ValoraY/NotePictures/blob/main/28.png)
 
 **问：**解决依赖冲突  ommitd with confilct 2.3.3
 
@@ -4405,9 +4405,7 @@ alt+insert  -->  Plugin  template -->选择本地仓库里面你需要的插件�
 
 ### 二、项目启动
 
-![image-20210813102433332](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210813102433332.png)
-
-![image-20210813102455280](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210813102455280.png)
+![image-20210813102433332](https://github.com/ValoraY/NotePictures/blob/main/29.png)
 
 ### 三、技术选型
 
@@ -4456,7 +4454,7 @@ USE travel;
 
 ##### 功能分析
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\7C0468CA35208F99BEA2FE05E551A9F2.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/30.png)
 
 ##### 代码实现
 
@@ -4772,7 +4770,7 @@ public class UserDaoImpl implements UserDao {
 
 **用户点击邮件激活**
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\17ED452FE8FFDB9EAED5E5580C583EBD.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/31.png)
 
 **用户激活其实就是修改用户表中的 status 为Y**
 
@@ -4815,7 +4813,7 @@ public class UserServiceImpl implements UserService {
 
 **注意修改dao中的save方法——加上存储status、code的代码**
 
-![image-20210815161812394](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210815161812394.png)
+![image-20210815161812394](https://github.com/ValoraY/NotePictures/blob/main/32.png)
 
 **二、编写activeUserServlet**
 
@@ -4907,7 +4905,7 @@ public class UserDaoImpl implements UserDao {
 
 ##### 功能分析
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\1CF2A870F8AFBA040CD469F68C1F2CB3.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/33.png)
 
 ##### 代码实现
 
@@ -5114,11 +5112,11 @@ public class ExitServlet extends HttpServlet {
 
 减少Servlet的数量，现在是一个功能一个Servlet，将其优化为**一个模块一个Servlet**，<u>**相当于在数据库中，一张表对应一个Servlet，在这个Servlet中提供不同的方法，完成用户的请求**</u>。
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\BDFA461041D6E601941D42919EEAB006.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/34.png)
 
 > 设置控制台输出的中文字符不乱码
 >
-> ![image-20210816104329615](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210816104329615.png)
+> ![image-20210816104329615](https://github.com/ValoraY/NotePictures/blob/main/35.png)
 
 ##### BaseServlet抽取
 
@@ -5196,11 +5194,11 @@ public class CategoryServlet extends BaseServlet {
 
 **效果：**
 
-<img src="C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210816115131262.png" alt="image-20210816115131262" style="zoom:67%;" />
+<img src="https://github.com/ValoraY/NotePictures/blob/main/36.png" alt="image-20210816115131262" style="zoom:67%;" />
 
 **分析：**
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\CA3FF19EE8623D5BA1B3700D50B8A4F8.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/37.png)
 
 ### 旅游线路分页展示
 
@@ -5461,7 +5459,7 @@ public class RouteServlet extends BaseServlet {
 
 **解决rname乱码问题**
 
-![image-20210818174623475](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210818174623475.png)
+![image-20210818174623475](https://github.com/ValoraY/NotePictures/blob/main/38.png)
 
 ##### RouteService
 
@@ -5717,7 +5715,7 @@ $(function () {
    - 当页面加载完成后，发送ajax请求，获取用户是否收藏的标记flag
    - 根据标记，展示不同样式的按钮
 
-   ![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\34429C481FC3E96ADEEC2DE5464AAB1A.png)
+   ![img](https://github.com/ValoraY/NotePictures/blob/main/39.png)
 
    ##### 后台代码
 
@@ -5817,7 +5815,7 @@ $(function () {
 
 2. 点击按钮收藏线路
 
-   #### ![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\4DBADC32B58FA079ADA2E13A9DF5BDDF.png)
+   #### ![img](https://github.com/ValoraY/NotePictures/blob/main/40.png)
 
    ##### 后台代码
 
