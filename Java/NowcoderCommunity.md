@@ -24,7 +24,7 @@
 
 2. 为所有新项目配置maven
 
-   https://github.com/ValoraY/NotePictures/blob/main/1.png
+    ![image-1](https://github.com/ValoraY/NotePictures/blob/main/1.png)
 
 3. 创建新项目，注意修改Location到自己的工作空间
 
