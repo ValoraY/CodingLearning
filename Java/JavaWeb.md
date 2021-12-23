@@ -1804,11 +1804,11 @@ System.out.println(name);
 
 ## web服务器软件
 
-**服务器：**安装了服务器软件的计算机
+**服务器：** 安装了服务器软件的计算机
 
-**服务器软件：**接收用户请求，处理请求，做出响应
+**服务器软件：** 接收用户请求，处理请求，做出响应
 
-**web服务器软件：**接收用户请求，处理请求，做出响应
+**web服务器软件：** 接收用户请求，处理请求，做出响应
 
 - 在web服务器软件中，可以部署web项目，让用户通过浏览器来访问这些项目
 - web容器
@@ -1826,7 +1826,7 @@ JavaEE：Java语言在企业级开发中使用的技术规范的总和，一共�
 
 ### Tomcat目录认识
 
-![image-20210607144919989](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210607144919989.png)
+![image-20210607144919989](https://github.com/ValoraY/NotePictures/blob/main/5.png)
 
 ### 基础操作
 
@@ -1992,7 +1992,7 @@ WEB-INF目录：
 
 File-Project Structure-
 
-![image-20210731203402416](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210731203402416.png)
+![image-20210731203402416](https://github.com/ValoraY/NotePictures/blob/main/6.png)
 
 然后在day14_test模块中，右键NEW即可出现Servlet
 
@@ -2305,7 +2305,7 @@ File-Project Structure-WEB-Source Roots-勾选
 ​	4.登录成功跳转到SuccessServlet展示：登录成功！用户名,欢迎您
 ​	5.登录失败跳转到FailServlet展示：登录失败，用户名或密码错误
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\CB911FF2A8AD0EA38321789971822461.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/7.png)
 
 ### 开发步骤
 
@@ -2803,7 +2803,7 @@ File-Project Structure-WEB-Source Roots-勾选
 
 基于响应头set-cookie和请求头cookie实现
 
-![image-20210805105235149](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210805105235149.png)
+![image-20210805105235149](https://github.com/ValoraY/NotePictures/blob/main/8.png)
 
 #### 细节处理
 
@@ -2895,7 +2895,7 @@ HttpSession对象：
 
 **Session的实现是依赖于Cookie来实现的**
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\F2768F159FCB70B350EEA66162B264AF.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/111.png)
 
 #### 细节
 
@@ -2952,7 +2952,7 @@ HttpSession对象：
 
 分析：
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\7CBFC36AD772FCFAC2E382C35AE8F584.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/9.png)
 
 ## JSP入门
 
@@ -2967,7 +2967,7 @@ Java Server Pages：java服务器端页面
 
 **JSP本质上就是一个Servlet**
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\BAF54E7A77A1C63536C0BDA37727480E.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/10.png)
 
 ### 脚本
 
@@ -3066,7 +3066,7 @@ jsp一共有9个内置对象
    - 调用模型
    - 将模型返回的数据交给视图进行展示
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\546E74B7B5A6E60D2C654AFF2AB88E7E.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/11.png)
 
 优点：
 
@@ -3274,7 +3274,7 @@ JavaServer    Pages     Tag      Library         JSP标准标签库
 2. 业务逻辑层：处理业务逻辑。
 3. 数据访问层：操作数据存储文件。
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\06038F7C8F643612D53B1E0C4770E743.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/12.png)
 
 #### 案例：用户信息列表展示
 
@@ -3309,7 +3309,7 @@ JavaServer    Pages     Tag      Library         JSP标准标签库
 
    2. 编码
 
-      ![image-20210806163813099](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210806163813099.png)
+      ![image-20210806163813099](https://github.com/ValoraY/NotePictures/blob/main/13.png)
 
    #### 综合练习
 
@@ -3323,21 +3323,21 @@ JavaServer    Pages     Tag      Library         JSP标准标签库
 
       3. 添加
 
-         ![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\FEC3EF9EF713D9D9214FDEEE3BA81E32.png)
+         ![img](https://github.com/ValoraY/NotePictures/blob/main/14.png)
 
       4. 删除
 
-         ![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\9A51222CA68F77FD37047581701617AD.png)
+         ![img](https://github.com/ValoraY/NotePictures/blob/main/15.png)
 
       5. 修改
 
-         ![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\669853F1D2C45B43C757F63C97551CBE.png)
+         ![img](https://github.com/ValoraY/NotePictures/blob/main/16.png)
 
    2. 复杂功能
 
       1. 删除选中
 
-         ![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\403D0BBA659703F47A7A0999D71FDADF.png)
+         ![img](https://github.com/ValoraY/NotePictures/blob/main/17.png)
 
       2. 分页查询
 
@@ -3346,11 +3346,11 @@ JavaServer    Pages     Tag      Library         JSP标准标签库
             1. 减轻服务器内存的开销
             2. 提升用户体验
 
-            ![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\11EDC7CA1213841DB164A22EB913F9FA.png)
+            ![img](https://github.com/ValoraY/NotePictures/blob/main/18.png)
 
-         ![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\0BF9DC24622166EAAC95B3B3D9DDEBCE.png)
+         ![img](https://github.com/ValoraY/NotePictures/blob/main/19.png)
 
-      3. 复杂条件查询![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\5DE71DEF97E6C99A9BE551D533D72796.png)
+      3. 复杂条件查询![img](https://github.com/ValoraY/NotePictures/blob/main/20.png)
 
 4. 测试
 
@@ -3469,7 +3469,7 @@ filter被执行--->放行--->访问资源--->返回继续执行filter剩余部�
 
  3. 如果没有登录，则跳转到登录页面，提示"您尚未登录，请先登录"。
 
-    ![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\D426B68AEF6D07D4D1873D35090C02DA.png)
+    ![img](https://github.com/ValoraY/NotePictures/blob/main/21.png)
 
 #### 案例2_敏感词汇过滤
 
@@ -3478,7 +3478,7 @@ filter被执行--->放行--->访问资源--->返回继续执行filter剩余部�
  	2. 敏感词汇参考《敏感词汇.txt》
  	3. 如果是敏感词汇，替换为 *** 
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\25361F2780FB0F2CDC57C944F5D75BAE.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/22.png)
 
 ##### 分析
 
@@ -3998,7 +3998,7 @@ Map：和对象的格式一致
 
 redis是一款高性能的NOSQL系列的非关系型数据库
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\EA6AB8C57B0D4FFB9C5C8D1411B81D42.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/23.png)
 
 一般会将数据存储在关系型数据库中，在nosql数据库中**备份存储**关系型数据库的数据
 
@@ -4121,7 +4121,7 @@ redis存储的是：key,value格式的数据，其中key都是字符串，value�
 案例需求：
 	1. 提供index.html页面，页面中有一个省份 下拉列表
 	2. 当 页面加载完成后 发送ajax请求，加载所有省份
-	![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\914F0F324E0A59870EECAD48B0460F3D.png)
+	![img](https://github.com/ValoraY/NotePictures/blob/main/24.png)
 
 1. 准备工作——环境搭建
 
@@ -4229,7 +4229,7 @@ redis存储的是：key,value格式的数据，其中key都是字符串，value�
 
 #### 案例优化——redis缓存
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\33369E5AA338B02F7A9FAD06C62593B1.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/25.png)
 
 **修改ProvinceServiceImpl类**
 
@@ -4348,7 +4348,7 @@ Site   LifeCycle：站点发布
 
 ### IDEA配置Maven环境
 
-![image-20210812162656617](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20210812162656617.png)
+![image-20210812162656617](https://github.com/ValoraY/NotePictures/blob/main/26.png)
 
 ### Maven坐标
 
@@ -4387,7 +4387,7 @@ alt+insert  -->  Plugin  template -->选择本地仓库里面你需要的插件�
 
 ### 依赖范围
 
-![img](file:///C:\Users\鲸鱼\Documents\Tencent Files\1432843916\Image\C2C\B79E4357921BB8CB742DB093DEA440BC.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/27.png)
 
 ## 《黑马旅游网》综合案例
 
