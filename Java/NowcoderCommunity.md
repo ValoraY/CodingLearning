@@ -24,7 +24,7 @@
 
 2. 为所有新项目配置maven
 
-   ![image-20211109095345030](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20211109095345030.png)
+   https://github.com/ValoraY/NotePictures/blob/main/1.png
 
 3. 创建新项目，注意修改Location到自己的工作空间
 
