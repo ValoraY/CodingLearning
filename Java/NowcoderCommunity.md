@@ -28,7 +28,7 @@
 
 3. 创建新项目，注意修改Location到自己的工作空间
 
-   ![image-20211109100037200](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20211109100037200.png)
+   ![image-20211109100037200](https://github.com/ValoraY/NotePictures/blob/main/2.png)
 
 4. 利用maven编译项目（快捷键：Ctrl+F9）
 
@@ -44,7 +44,7 @@
 
 3. 解压到工作空间
 
-   ![image-20211109101943153](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20211109101943153.png)
+   ![image-20211109101943153](https://github.com/ValoraY/NotePictures/blob/main/3.png)
 
 4. 在IDEA中open这个项目
 
@@ -436,7 +436,7 @@ mysql-workbench
 
 1. 让IDEA知道git.exe的安装路径
 
-   ![image-20211115223846017](C:\Users\鲸鱼\AppData\Roaming\Typora\typora-user-images\image-20211115223846017.png)
+   ![image-20211115223846017](https://github.com/ValoraY/NotePictures/blob/main/4.png)
 
 2. 选中项目 - VCS - Import into Version Control - Create Git Repository      ——创建本地仓库
 
