@@ -2895,7 +2895,7 @@ HttpSession对象：
 
 **Session的实现是依赖于Cookie来实现的**
 
-![img](https://github.com/ValoraY/NotePictures/blob/main/111.png)
+![img](https://github.com/ValoraY/NotePictures/blob/main/session.png)
 
 #### 细节
 
